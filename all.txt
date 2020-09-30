@@ -9,6 +9,7 @@ animate
 animateColor
 animateMotion
 animateTransform
+applet
 area
 article
 aside
@@ -16,6 +17,7 @@ audio
 autonomous
 b
 base
+basefont
 bbr
 bdi
 bdo
@@ -25,6 +27,7 @@ br
 button
 canvas
 caption
+center
 cite
 clipPath
 code
@@ -42,6 +45,7 @@ desc
 details
 dfn
 dialog
+dir
 directory
 div
 dl
@@ -111,6 +115,7 @@ image
 img
 input
 ins
+isindex
 kbd
 label
 legend
@@ -118,6 +123,7 @@ li
 line
 linearGradient
 link
+listing
 maction
 main
 map
@@ -176,7 +182,9 @@ paragraph
 param
 path
 pattern
+phrase
 picture
+plaintext
 polygon
 polyline
 pre
@@ -240,3 +248,4 @@ view
 vkern
 wb
 wbr
+xmp
