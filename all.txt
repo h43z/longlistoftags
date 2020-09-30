@@ -1,5 +1,6 @@
 a
 abbr
+acronym
 address
 altGlyph
 altGlyphDef
@@ -21,6 +22,7 @@ basefont
 bbr
 bdi
 bdo
+big
 blockquote
 body
 br
@@ -170,6 +172,7 @@ mtr
 munder
 munderover
 nav
+noframes
 noscript
 object
 ol
@@ -209,6 +212,7 @@ small
 source
 span
 stop
+strike
 strong
 style
 sub
@@ -238,6 +242,7 @@ tr
 track
 tref
 tspan
+tt
 u
 ul
 ulist
