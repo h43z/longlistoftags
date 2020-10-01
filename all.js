@@ -1,4 +1,5 @@
 const tags = [
+  "",
   "a",
   "abbr",
   "acronym",
@@ -110,6 +111,8 @@ const tags = [
   "heading",
   "hgroup",
   "hkern",
+  "hp1",
+  "hp2",
   "hr",
   "html",
   "i",
@@ -173,6 +176,7 @@ const tags = [
   "munder",
   "munderover",
   "nav",
+  "nextid",
   "noframes",
   "noscript",
   "object",

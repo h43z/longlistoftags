@@ -1,3 +1,4 @@
+
 a
 abbr
 acronym
@@ -109,6 +110,8 @@ header
 heading
 hgroup
 hkern
+hp1
+hp2
 hr
 html
 i
@@ -172,6 +175,7 @@ mtr
 munder
 munderover
 nav
+nextid
 noframes
 noscript
 object
