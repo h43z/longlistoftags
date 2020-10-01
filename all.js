@@ -252,6 +252,7 @@ const tags = [
   "video",
   "view",
   "vkern",
+  "w",
   "wb",
   "wbr",
   "xmp",
