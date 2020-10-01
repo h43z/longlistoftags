@@ -1,4 +1,5 @@
 const tags = [
+  "!----",
   "a",
   "abbr",
   "acronym",
