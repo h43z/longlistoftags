@@ -1,3 +1,4 @@
+!----
 a
 abbr
 acronym
@@ -19,10 +20,13 @@ autonomous
 b
 base
 basefont
+bb
 bbr
 bdi
 bdo
+bgsound
 big
+blink
 blockquote
 body
 br
@@ -36,9 +40,11 @@ code
 col
 colgroup
 color-profile
+command
 content
 cursor
 data
+datagrid
 datalist
 dd
 defs
@@ -52,10 +58,13 @@ directory
 div
 dl
 dlist
+!doctype
 dt
+element
 ellipse
 em
 embed
+eventsource
 feBlend
 feColorMatrix
 feComponentTransfer
@@ -109,6 +118,10 @@ header
 heading
 hgroup
 hkern
+hp0
+hp1
+hp2
+hp3
 hr
 html
 i
@@ -119,6 +132,8 @@ input
 ins
 isindex
 kbd
+key
+keygen
 label
 legend
 li
@@ -137,6 +152,7 @@ math
 media
 menclose
 menu
+menuitem
 merror
 meta
 metadata
@@ -169,9 +185,13 @@ mtable
 mtd
 mtext
 mtr
+multicol
 munder
 munderover
 nav
+nextid
+nobr
+noembed
 noframes
 noscript
 object
@@ -195,9 +215,12 @@ progress
 q
 quote
 radialGradient
+rb
+rbc
 rect
 rp
 rt
+rtc
 ruby
 s
 samp
@@ -210,6 +233,7 @@ shadow
 slot
 small
 source
+spacer
 span
 stop
 strike
