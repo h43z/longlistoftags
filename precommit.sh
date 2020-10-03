@@ -10,7 +10,7 @@ for file in *.txt; do
 done
 
 # readme.md
-echo "# long list of tags" > README.md
+echo "# long list of $(wc -l all.txt | cut -d" " -f1) tags" > README.md
 cat all.txt | while read line; do
 	echo "$line  " >> README.md
 done
