@@ -24,6 +24,7 @@ const tags = [
   "body",
   "br",
   "button",
+  "decorator",
   "canvas",
   "caption",
   "center",
