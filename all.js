@@ -58,6 +58,7 @@ const tags = [
   "dialog",
   "dir",
   "directory",
+  "discard",
   "div",
   "dl",
   "dlist",

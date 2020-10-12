@@ -15,6 +15,7 @@ const tags = [
   "cursor",
   "defs",
   "desc",
+  "discard",
   "ellipse",
   "feblend",
   "fecolormatrix",

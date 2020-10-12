@@ -14,6 +14,7 @@ color-profile
 cursor
 defs
 desc
+discard
 ellipse
 feblend
 fecolormatrix

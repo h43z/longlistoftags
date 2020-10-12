@@ -57,6 +57,7 @@ dfn
 dialog
 dir
 directory
+discard
 div
 dl
 dlist

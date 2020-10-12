@@ -1,4 +1,4 @@
-# long list of 283 tags
+# long list of 284 tags
 write new found tag in correct .txt (html,svg,math) file and run `precommit.sh`
 
 !----  
@@ -60,6 +60,7 @@ dfn
 dialog  
 dir  
 directory  
+discard  
 div  
 dl  
 dlist  
