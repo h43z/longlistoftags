@@ -1,4 +1,5 @@
 !----
+!--//--
 a
 abbr
 acronym
@@ -33,6 +34,7 @@ br
 button
 canvas
 caption
+![cdata[]]
 center
 circle
 cite

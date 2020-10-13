@@ -1,5 +1,6 @@
 const tags = [
   "!----",
+  "!--//--",
   "a",
   "abbr",
   "acronym",
@@ -34,6 +35,7 @@ const tags = [
   "button",
   "canvas",
   "caption",
+  "![cdata[]]",
   "center",
   "circle",
   "cite",

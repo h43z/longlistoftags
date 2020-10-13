@@ -1,7 +1,8 @@
-# long list of 284 tags
+# long list of 286 tags
 write new found tag in correct .txt (html,svg,math) file and run `precommit.sh`
 
 !----  
+!--//--  
 a  
 abbr  
 acronym  
@@ -36,6 +37,7 @@ br
 button  
 canvas  
 caption  
+![cdata[]]  
 center  
 circle  
 cite  
